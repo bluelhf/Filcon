@@ -6,7 +6,7 @@
 
     <groupId>blue.lhf</groupId>
     <artifactId>filcon</artifactId>
-    <version>1.0.0</version>
+    <version>2.0.0</version>
 
     <name>Filcon</name>
     <description>Fast Regex-based Console Filtering</description>
