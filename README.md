@@ -31,7 +31,7 @@ attempts, Filcon helps you keep your console tidy.
 
 ## Installation
 
-1. Download the latest version of Filcon from the [releases page](https://github.com/bluelhf/filcon/releases).
+1. Download the latest version of Filcon from the [SpigotMC](https://www.spigotmc.org/resources/filcon.78880/).
 2. Move the downloaded JAR file into your server's <kbd>plugins</kbd> folder.
 3. Restart your server.
 
