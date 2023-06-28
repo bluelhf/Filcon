@@ -2,7 +2,7 @@
 name: Support Request
 about: Ask for help with Filcon
 title: ''
-labels: ''
+labels: support request
 assignees: ''
 
 ---
