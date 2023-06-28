@@ -1,0 +1,9 @@
+name: ${project.name}
+description: ${project.description}
+author: bluelhf
+
+main: blue.lhf.filcon.Filcon
+version: ${project.version}
+api-version: 1.13
+
+load: STARTUP

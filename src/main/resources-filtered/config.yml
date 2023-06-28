@@ -1,0 +1,11 @@
+# Welcome to the Filcon configuration! Here, you can add
+# patterns to block in the console. Patterns are specified
+# as Regular Expressions, which are a special way to find
+# pieces of text in a message. Learn more about them at
+# https://www.regular-expressions.info/tutorial.html
+
+patterns:
+# - 'Fetching all due players...'
+# - 'Fetched due players \(\d+ found\).'
+
+# HINT: These patterns aren't enabled because they start with a '#'. Remove it to enable them.
